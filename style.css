@@ -4,6 +4,9 @@ body {
   background: #cacbda;
 }
 
+.rd {
+  color: alicebluegit;
+}
 .container {
   display: flex;
   gap: 50px;
